@@ -1,0 +1,15 @@
+C:\Users\Calik\Desktop\Feyt\.net\c#\degiskenler\bin\Debug\net7.0\degiskenler.exe
+C:\Users\Calik\Desktop\Feyt\.net\c#\degiskenler\bin\Debug\net7.0\degiskenler.deps.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\degiskenler\bin\Debug\net7.0\degiskenler.runtimeconfig.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\degiskenler\bin\Debug\net7.0\degiskenler.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\degiskenler\bin\Debug\net7.0\degiskenler.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\degiskenler\obj\Debug\net7.0\degiskenler.csproj.AssemblyReference.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\degiskenler\obj\Debug\net7.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calik\Desktop\Feyt\.net\c#\degiskenler\obj\Debug\net7.0\degiskenler.AssemblyInfoInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\degiskenler\obj\Debug\net7.0\degiskenler.AssemblyInfo.cs
+C:\Users\Calik\Desktop\Feyt\.net\c#\degiskenler\obj\Debug\net7.0\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\degiskenler\obj\Debug\net7.0\degiskenler.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\degiskenler\obj\Debug\net7.0\refint\degiskenler.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\degiskenler\obj\Debug\net7.0\degiskenler.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\degiskenler\obj\Debug\net7.0\degiskenler.genruntimeconfig.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\degiskenler\obj\Debug\net7.0\ref\degiskenler.dll

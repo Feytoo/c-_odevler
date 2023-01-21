@@ -1,0 +1,15 @@
+C:\Users\Calik\Desktop\Feyt\.net\c#\diziler\bin\Debug\net7.0\diziler.exe
+C:\Users\Calik\Desktop\Feyt\.net\c#\diziler\bin\Debug\net7.0\diziler.deps.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\diziler\bin\Debug\net7.0\diziler.runtimeconfig.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\diziler\bin\Debug\net7.0\diziler.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\diziler\bin\Debug\net7.0\diziler.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\diziler\obj\Debug\net7.0\diziler.csproj.AssemblyReference.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\diziler\obj\Debug\net7.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calik\Desktop\Feyt\.net\c#\diziler\obj\Debug\net7.0\diziler.AssemblyInfoInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\diziler\obj\Debug\net7.0\diziler.AssemblyInfo.cs
+C:\Users\Calik\Desktop\Feyt\.net\c#\diziler\obj\Debug\net7.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\diziler\obj\Debug\net7.0\diziler.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\diziler\obj\Debug\net7.0\refint\diziler.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\diziler\obj\Debug\net7.0\diziler.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\diziler\obj\Debug\net7.0\diziler.genruntimeconfig.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\diziler\obj\Debug\net7.0\ref\diziler.dll

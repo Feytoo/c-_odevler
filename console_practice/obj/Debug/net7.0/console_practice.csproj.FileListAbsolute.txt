@@ -1,0 +1,15 @@
+C:\Users\Calik\Desktop\Feyt\.net\c#\console_practice\bin\Debug\net7.0\console_practice.exe
+C:\Users\Calik\Desktop\Feyt\.net\c#\console_practice\bin\Debug\net7.0\console_practice.deps.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\console_practice\bin\Debug\net7.0\console_practice.runtimeconfig.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\console_practice\bin\Debug\net7.0\console_practice.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\console_practice\bin\Debug\net7.0\console_practice.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\console_practice\obj\Debug\net7.0\console_practice.csproj.AssemblyReference.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\console_practice\obj\Debug\net7.0\console_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calik\Desktop\Feyt\.net\c#\console_practice\obj\Debug\net7.0\console_practice.AssemblyInfoInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\console_practice\obj\Debug\net7.0\console_practice.AssemblyInfo.cs
+C:\Users\Calik\Desktop\Feyt\.net\c#\console_practice\obj\Debug\net7.0\console_practice.csproj.CoreCompileInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\console_practice\obj\Debug\net7.0\console_practice.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\console_practice\obj\Debug\net7.0\refint\console_practice.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\console_practice\obj\Debug\net7.0\console_practice.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\console_practice\obj\Debug\net7.0\console_practice.genruntimeconfig.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\console_practice\obj\Debug\net7.0\ref\console_practice.dll
