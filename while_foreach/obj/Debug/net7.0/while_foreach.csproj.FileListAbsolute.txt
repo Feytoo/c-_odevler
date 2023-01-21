@@ -1,0 +1,15 @@
+C:\Users\Calik\Desktop\Feyt\.net\c#\while_foreach\bin\Debug\net7.0\while_foreach.exe
+C:\Users\Calik\Desktop\Feyt\.net\c#\while_foreach\bin\Debug\net7.0\while_foreach.deps.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\while_foreach\bin\Debug\net7.0\while_foreach.runtimeconfig.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\while_foreach\bin\Debug\net7.0\while_foreach.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\while_foreach\bin\Debug\net7.0\while_foreach.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\while_foreach\obj\Debug\net7.0\while_foreach.csproj.AssemblyReference.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\while_foreach\obj\Debug\net7.0\while_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calik\Desktop\Feyt\.net\c#\while_foreach\obj\Debug\net7.0\while_foreach.AssemblyInfoInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\while_foreach\obj\Debug\net7.0\while_foreach.AssemblyInfo.cs
+C:\Users\Calik\Desktop\Feyt\.net\c#\while_foreach\obj\Debug\net7.0\while_foreach.csproj.CoreCompileInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\while_foreach\obj\Debug\net7.0\while_foreach.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\while_foreach\obj\Debug\net7.0\refint\while_foreach.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\while_foreach\obj\Debug\net7.0\while_foreach.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\while_foreach\obj\Debug\net7.0\while_foreach.genruntimeconfig.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\while_foreach\obj\Debug\net7.0\ref\while_foreach.dll
