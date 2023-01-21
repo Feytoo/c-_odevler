@@ -1,0 +1,15 @@
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_sinifi_metodlari\bin\Debug\net7.0\array_sinifi_metodlari.exe
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_sinifi_metodlari\bin\Debug\net7.0\array_sinifi_metodlari.deps.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_sinifi_metodlari\bin\Debug\net7.0\array_sinifi_metodlari.runtimeconfig.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_sinifi_metodlari\bin\Debug\net7.0\array_sinifi_metodlari.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_sinifi_metodlari\bin\Debug\net7.0\array_sinifi_metodlari.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_sinifi_metodlari\obj\Debug\net7.0\array_sinifi_metodlari.csproj.AssemblyReference.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_sinifi_metodlari\obj\Debug\net7.0\array_sinifi_metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_sinifi_metodlari\obj\Debug\net7.0\array_sinifi_metodlari.AssemblyInfoInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_sinifi_metodlari\obj\Debug\net7.0\array_sinifi_metodlari.AssemblyInfo.cs
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_sinifi_metodlari\obj\Debug\net7.0\array_sinifi_metodlari.csproj.CoreCompileInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_sinifi_metodlari\obj\Debug\net7.0\array_sinifi_metodlari.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_sinifi_metodlari\obj\Debug\net7.0\refint\array_sinifi_metodlari.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_sinifi_metodlari\obj\Debug\net7.0\array_sinifi_metodlari.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_sinifi_metodlari\obj\Debug\net7.0\array_sinifi_metodlari.genruntimeconfig.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_sinifi_metodlari\obj\Debug\net7.0\ref\array_sinifi_metodlari.dll
