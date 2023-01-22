@@ -1,0 +1,15 @@
+C:\Users\Calik\Desktop\Feyt\.net\c#\patika_odev1\bin\Debug\net7.0\patika_odev1.exe
+C:\Users\Calik\Desktop\Feyt\.net\c#\patika_odev1\bin\Debug\net7.0\patika_odev1.deps.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\patika_odev1\bin\Debug\net7.0\patika_odev1.runtimeconfig.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\patika_odev1\bin\Debug\net7.0\patika_odev1.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\patika_odev1\bin\Debug\net7.0\patika_odev1.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\patika_odev1\obj\Debug\net7.0\patika_odev1.csproj.AssemblyReference.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\patika_odev1\obj\Debug\net7.0\patika_odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calik\Desktop\Feyt\.net\c#\patika_odev1\obj\Debug\net7.0\patika_odev1.AssemblyInfoInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\patika_odev1\obj\Debug\net7.0\patika_odev1.AssemblyInfo.cs
+C:\Users\Calik\Desktop\Feyt\.net\c#\patika_odev1\obj\Debug\net7.0\patika_odev1.csproj.CoreCompileInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\patika_odev1\obj\Debug\net7.0\patika_odev1.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\patika_odev1\obj\Debug\net7.0\refint\patika_odev1.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\patika_odev1\obj\Debug\net7.0\patika_odev1.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\patika_odev1\obj\Debug\net7.0\patika_odev1.genruntimeconfig.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\patika_odev1\obj\Debug\net7.0\ref\patika_odev1.dll
