@@ -26,6 +26,9 @@ class Program
         int ifade = 999;
         instance.EkranaYazdir(ifade);
         instance.EkranaYazdir("Fatih","Calik");
+        
+        //metod imzasi
+        //metotAdı + parametresayisi + parametre tipleri
     }
 }
 class Metotlar
