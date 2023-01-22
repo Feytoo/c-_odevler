@@ -1,0 +1,15 @@
+C:\Users\Calik\Desktop\Feyt\.net\c#\metodlar\metodlar_ders2\bin\Debug\net7.0\metodlar_ders2.exe
+C:\Users\Calik\Desktop\Feyt\.net\c#\metodlar\metodlar_ders2\bin\Debug\net7.0\metodlar_ders2.deps.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\metodlar\metodlar_ders2\bin\Debug\net7.0\metodlar_ders2.runtimeconfig.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\metodlar\metodlar_ders2\bin\Debug\net7.0\metodlar_ders2.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\metodlar\metodlar_ders2\bin\Debug\net7.0\metodlar_ders2.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\metodlar\metodlar_ders2\obj\Debug\net7.0\metodlar_ders2.csproj.AssemblyReference.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\metodlar\metodlar_ders2\obj\Debug\net7.0\metodlar_ders2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calik\Desktop\Feyt\.net\c#\metodlar\metodlar_ders2\obj\Debug\net7.0\metodlar_ders2.AssemblyInfoInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\metodlar\metodlar_ders2\obj\Debug\net7.0\metodlar_ders2.AssemblyInfo.cs
+C:\Users\Calik\Desktop\Feyt\.net\c#\metodlar\metodlar_ders2\obj\Debug\net7.0\metodlar_ders2.csproj.CoreCompileInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\metodlar\metodlar_ders2\obj\Debug\net7.0\metodlar_ders2.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\metodlar\metodlar_ders2\obj\Debug\net7.0\refint\metodlar_ders2.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\metodlar\metodlar_ders2\obj\Debug\net7.0\metodlar_ders2.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\metodlar\metodlar_ders2\obj\Debug\net7.0\metodlar_ders2.genruntimeconfig.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\metodlar\metodlar_ders2\obj\Debug\net7.0\ref\metodlar_ders2.dll
