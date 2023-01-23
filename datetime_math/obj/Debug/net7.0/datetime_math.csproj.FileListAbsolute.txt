@@ -1,0 +1,15 @@
+C:\Users\fatih\Desktop\Fatih\c#\datetime_math\bin\Debug\net7.0\datetime_math.exe
+C:\Users\fatih\Desktop\Fatih\c#\datetime_math\bin\Debug\net7.0\datetime_math.deps.json
+C:\Users\fatih\Desktop\Fatih\c#\datetime_math\bin\Debug\net7.0\datetime_math.runtimeconfig.json
+C:\Users\fatih\Desktop\Fatih\c#\datetime_math\bin\Debug\net7.0\datetime_math.dll
+C:\Users\fatih\Desktop\Fatih\c#\datetime_math\bin\Debug\net7.0\datetime_math.pdb
+C:\Users\fatih\Desktop\Fatih\c#\datetime_math\obj\Debug\net7.0\datetime_math.csproj.AssemblyReference.cache
+C:\Users\fatih\Desktop\Fatih\c#\datetime_math\obj\Debug\net7.0\datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\Desktop\Fatih\c#\datetime_math\obj\Debug\net7.0\datetime_math.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\Fatih\c#\datetime_math\obj\Debug\net7.0\datetime_math.AssemblyInfo.cs
+C:\Users\fatih\Desktop\Fatih\c#\datetime_math\obj\Debug\net7.0\datetime_math.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\Fatih\c#\datetime_math\obj\Debug\net7.0\datetime_math.dll
+C:\Users\fatih\Desktop\Fatih\c#\datetime_math\obj\Debug\net7.0\refint\datetime_math.dll
+C:\Users\fatih\Desktop\Fatih\c#\datetime_math\obj\Debug\net7.0\datetime_math.pdb
+C:\Users\fatih\Desktop\Fatih\c#\datetime_math\obj\Debug\net7.0\datetime_math.genruntimeconfig.cache
+C:\Users\fatih\Desktop\Fatih\c#\datetime_math\obj\Debug\net7.0\ref\datetime_math.dll
