@@ -1,0 +1,15 @@
+C:\Users\Calik\Desktop\Feyt\.net\c#\string_metodlari\bin\Debug\net7.0\string_metodlari.exe
+C:\Users\Calik\Desktop\Feyt\.net\c#\string_metodlari\bin\Debug\net7.0\string_metodlari.deps.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\string_metodlari\bin\Debug\net7.0\string_metodlari.runtimeconfig.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\string_metodlari\bin\Debug\net7.0\string_metodlari.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\string_metodlari\bin\Debug\net7.0\string_metodlari.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\string_metodlari\obj\Debug\net7.0\string_metodlari.csproj.AssemblyReference.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\string_metodlari\obj\Debug\net7.0\string_metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calik\Desktop\Feyt\.net\c#\string_metodlari\obj\Debug\net7.0\string_metodlari.AssemblyInfoInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\string_metodlari\obj\Debug\net7.0\string_metodlari.AssemblyInfo.cs
+C:\Users\Calik\Desktop\Feyt\.net\c#\string_metodlari\obj\Debug\net7.0\string_metodlari.csproj.CoreCompileInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\string_metodlari\obj\Debug\net7.0\string_metodlari.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\string_metodlari\obj\Debug\net7.0\refint\string_metodlari.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\string_metodlari\obj\Debug\net7.0\string_metodlari.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\string_metodlari\obj\Debug\net7.0\string_metodlari.genruntimeconfig.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\string_metodlari\obj\Debug\net7.0\ref\string_metodlari.dll
