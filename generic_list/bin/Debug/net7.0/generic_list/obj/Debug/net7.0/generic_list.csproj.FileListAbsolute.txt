@@ -1,0 +1,15 @@
+C:\Users\Calik\Desktop\Feyt\.net\c#\generic_list\obj\Debug\net7.0\generic_list.csproj.AssemblyReference.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\generic_list\obj\Debug\net7.0\generic_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calik\Desktop\Feyt\.net\c#\generic_list\obj\Debug\net7.0\generic_list.AssemblyInfoInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\generic_list\obj\Debug\net7.0\generic_list.AssemblyInfo.cs
+C:\Users\Calik\Desktop\Feyt\.net\c#\generic_list\obj\Debug\net7.0\generic_list.csproj.CoreCompileInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\generic_list\bin\Debug\net7.0\generic_list.exe
+C:\Users\Calik\Desktop\Feyt\.net\c#\generic_list\bin\Debug\net7.0\generic_list.deps.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\generic_list\bin\Debug\net7.0\generic_list.runtimeconfig.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\generic_list\bin\Debug\net7.0\generic_list.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\generic_list\bin\Debug\net7.0\generic_list.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\generic_list\obj\Debug\net7.0\generic_list.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\generic_list\obj\Debug\net7.0\refint\generic_list.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\generic_list\obj\Debug\net7.0\generic_list.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\generic_list\obj\Debug\net7.0\generic_list.genruntimeconfig.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\generic_list\obj\Debug\net7.0\ref\generic_list.dll
