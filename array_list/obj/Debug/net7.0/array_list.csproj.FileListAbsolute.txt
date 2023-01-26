@@ -1,0 +1,15 @@
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_list\bin\Debug\net7.0\array_list.exe
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_list\bin\Debug\net7.0\array_list.deps.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_list\bin\Debug\net7.0\array_list.runtimeconfig.json
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_list\bin\Debug\net7.0\array_list.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_list\bin\Debug\net7.0\array_list.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_list\obj\Debug\net7.0\array_list.csproj.AssemblyReference.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_list\obj\Debug\net7.0\array_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_list\obj\Debug\net7.0\array_list.AssemblyInfoInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_list\obj\Debug\net7.0\array_list.AssemblyInfo.cs
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_list\obj\Debug\net7.0\array_list.csproj.CoreCompileInputs.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_list\obj\Debug\net7.0\array_list.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_list\obj\Debug\net7.0\refint\array_list.dll
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_list\obj\Debug\net7.0\array_list.pdb
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_list\obj\Debug\net7.0\array_list.genruntimeconfig.cache
+C:\Users\Calik\Desktop\Feyt\.net\c#\array_list\obj\Debug\net7.0\ref\array_list.dll
