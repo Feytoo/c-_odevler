@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "koleksiyonlar_2/1.0.0": {
+        "runtime": {
+          "koleksiyonlar_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "koleksiyonlar_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

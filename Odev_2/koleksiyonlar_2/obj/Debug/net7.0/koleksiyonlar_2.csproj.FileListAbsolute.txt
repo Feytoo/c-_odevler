@@ -1,0 +1,15 @@
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Odev_2\koleksiyonlar_2\bin\Debug\net7.0\koleksiyonlar_2.exe
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Odev_2\koleksiyonlar_2\bin\Debug\net7.0\koleksiyonlar_2.deps.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Odev_2\koleksiyonlar_2\bin\Debug\net7.0\koleksiyonlar_2.runtimeconfig.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Odev_2\koleksiyonlar_2\bin\Debug\net7.0\koleksiyonlar_2.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Odev_2\koleksiyonlar_2\bin\Debug\net7.0\koleksiyonlar_2.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Odev_2\koleksiyonlar_2\obj\Debug\net7.0\koleksiyonlar_2.csproj.AssemblyReference.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Odev_2\koleksiyonlar_2\obj\Debug\net7.0\koleksiyonlar_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Odev_2\koleksiyonlar_2\obj\Debug\net7.0\koleksiyonlar_2.AssemblyInfoInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Odev_2\koleksiyonlar_2\obj\Debug\net7.0\koleksiyonlar_2.AssemblyInfo.cs
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Odev_2\koleksiyonlar_2\obj\Debug\net7.0\koleksiyonlar_2.csproj.CoreCompileInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Odev_2\koleksiyonlar_2\obj\Debug\net7.0\koleksiyonlar_2.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Odev_2\koleksiyonlar_2\obj\Debug\net7.0\refint\koleksiyonlar_2.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Odev_2\koleksiyonlar_2\obj\Debug\net7.0\koleksiyonlar_2.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Odev_2\koleksiyonlar_2\obj\Debug\net7.0\koleksiyonlar_2.genruntimeconfig.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Odev_2\koleksiyonlar_2\obj\Debug\net7.0\ref\koleksiyonlar_2.dll
