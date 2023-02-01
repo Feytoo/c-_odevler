@@ -1,0 +1,15 @@
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Class\enum_class\bin\Debug\net7.0\enum_class.exe
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Class\enum_class\bin\Debug\net7.0\enum_class.deps.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Class\enum_class\bin\Debug\net7.0\enum_class.runtimeconfig.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Class\enum_class\bin\Debug\net7.0\enum_class.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Class\enum_class\bin\Debug\net7.0\enum_class.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Class\enum_class\obj\Debug\net7.0\enum_class.csproj.AssemblyReference.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Class\enum_class\obj\Debug\net7.0\enum_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Class\enum_class\obj\Debug\net7.0\enum_class.AssemblyInfoInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Class\enum_class\obj\Debug\net7.0\enum_class.AssemblyInfo.cs
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Class\enum_class\obj\Debug\net7.0\enum_class.csproj.CoreCompileInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Class\enum_class\obj\Debug\net7.0\enum_class.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Class\enum_class\obj\Debug\net7.0\refint\enum_class.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Class\enum_class\obj\Debug\net7.0\enum_class.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Class\enum_class\obj\Debug\net7.0\enum_class.genruntimeconfig.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\.Net\Class\enum_class\obj\Debug\net7.0\ref\enum_class.dll
